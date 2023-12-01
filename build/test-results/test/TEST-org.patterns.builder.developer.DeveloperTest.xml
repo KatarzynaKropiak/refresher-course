@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.patterns.builder.developer.DeveloperTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-01T16:10:11" hostname="DESKTOP-9N69OFJ" time="0.078">
+  <properties/>
+  <testcase name="testDeveloperNew()" classname="org.patterns.builder.developer.DeveloperTest" time="0.078"/>
+  <system-out><![CDATA[You should hire me, because I have a Quick Learning Ability, Excellent Analytical Skills, Good Time and Task Management and I know how to use Spring, Hibernate, Git, JBDC, MySQL and Java 17.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
